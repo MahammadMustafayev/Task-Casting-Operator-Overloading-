@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\bin\Debug\netcoreapp3.1\Casting, Operator Overloading.exe
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\bin\Debug\netcoreapp3.1\Casting, Operator Overloading.deps.json
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\bin\Debug\netcoreapp3.1\Casting, Operator Overloading.runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\bin\Debug\netcoreapp3.1\Casting, Operator Overloading.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\bin\Debug\netcoreapp3.1\Casting, Operator Overloading.dll
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\bin\Debug\netcoreapp3.1\Casting, Operator Overloading.pdb
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.dll
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.pdb
+C:\Users\admin\OneDrive\İş masası\Task(Casting,Operator Overloading)\Casting, Operator Overloading\Casting, Operator Overloading\obj\Debug\netcoreapp3.1\Casting, Operator Overloading.genruntimeconfig.cache
